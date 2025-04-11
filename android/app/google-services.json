@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844363885696",
+    "project_id": "findmypad-c4a6a",
+    "storage_bucket": "findmypad-c4a6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844363885696:android:59dbf184fbf4f3dfac4a65",
+        "android_client_info": {
+          "package_name": "com.example.findmypad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmKvVxgShIkkIeeVup4XOYA_iuN27tDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
